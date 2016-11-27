@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Demo
+description: "Demo."
 image:
   feature: abstract-11.jpg
   credit: dargadgetz
